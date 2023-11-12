@@ -1,3 +1,2 @@
 # Nata
-gm
 hellooooooooooo
